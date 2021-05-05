@@ -1,7 +1,8 @@
 # openGL_rendering
 
 Using this scripts need to GLM, GL, GLFW.
-Can change other images in Archive
+
+And can change other images in Archive
 
 # When the resolution is 512
 
