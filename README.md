@@ -1,5 +1,8 @@
 # openGL_rendering
 
+Using this scripts need to GLM, GL, GLFW.
+Can change other images in Archive
+
 # When the resolution is 512
 
 ![512](https://user-images.githubusercontent.com/37854961/117104335-eb674980-adb6-11eb-8e34-b218a2fea908.jpg)
